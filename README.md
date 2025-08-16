@@ -119,5 +119,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 * **Dr.MGR University, Chennai** – Guidance & Support
 
 ---
-
-Would you like me to also prepare a **requirements.txt** file for dependencies (so it directly works when someone installs from GitHub)?
